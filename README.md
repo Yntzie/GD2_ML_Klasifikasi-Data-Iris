@@ -5,19 +5,19 @@ Repository ini berisi notebook **`GD2_ML_2_12298.ipynb`** untuk keperluan pembel
 
 ## Struktur Notebook
 Rangkuman heading yang terdeteksi dari sel markdown:
-  - 1) Persiapan environment & impor pustaka
-  - 2) Memuat dataset Iris dari <code>sklearn.datasets
-  - Eksplorasi Data Awal
-  - 3) Pembagian data latih/uji
-  - 4) Standarisasi fitur (scaling)
-  - 5) Model 1: Perceptron
-    - Pembuatan Fungsi untuk Visualisasi Area Keputusan
-- 6) Model 2: Logistic Regression
-    - Mengatasi Overfitting dengan Regularisasi
-- 7) Model 3: Support Vector Machine (SVM) — implementasi via scikit-learn `SVC`
-  - 8) Model 5 : Random Forests
-  - 9) Model 6 :K-nearest neighbors
-  - Simpan & Muat Model dengan Pickle
+1) Persiapan environment & impor pustaka
+2) Memuat dataset Iris dari <code>sklearn.datasets
+Eksplorasi Data Awal
+3) Pembagian data latih/uji
+4) Standarisasi fitur (scaling)
+5) Model 1: Perceptron
+   Pembuatan Fungsi untuk Visualisasi Area Keputusan
+6) Model 2: Logistic Regression
+   Mengatasi Overfitting dengan Regularisasi
+7) Model 3: Support Vector Machine (SVM) — implementasi via scikit-learn `SVC`
+8) Model 5 : Random Forests
+9) Model 6 :K-nearest neighbors
+Simpan & Muat Model dengan Pickle
 
 ## Kebutuhan & Instalasi
 ### Virtual Environment (disarankan)
