@@ -33,7 +33,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-### Opsi B — Instal manual (jika tanpa requirements.txt)
+### Instal manual (jika tanpa requirements.txt)
 Paket pihak-ketiga yang terdeteksi dari notebook:
 ```
 distutils
